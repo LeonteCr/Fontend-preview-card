@@ -83,7 +83,7 @@ button {
     background-color: hsl(158, 36%, 37%);
     color: white;
     font-family: Montserrat;
-    font-weight:bold;
+    font-weight: 500;
     font-size: 0.9rem;
     border-radius: 0.5rem;
     border-style: none;
@@ -115,5 +115,26 @@ button {
         align-items: center;
         justify-content: center;
 
+    }
+    .content {
+        justify-content: space-around;
+    }
+    button {
+        height: 4rem;
+        font-size: 1.3rem;
+    }
+    button > img {
+        width: 17px;
+        height: 17px;
+    }
+    .category {
+        font-size: 15px;
+    }
+    .title {
+        font-size: 2.7rem;
+        line-height: 2.5rem;
+    }
+    .para {
+        font-size: 20px;
     }
 }
