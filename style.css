@@ -63,9 +63,8 @@ article {
 }
 .category, .para {
     font-family: Montserrat;
-    font-weight: 700;
+    font-weight: 500;
     opacity: 0.5;
-   
     font-size: 14px;
 }
 .para {
